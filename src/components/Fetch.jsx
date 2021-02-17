@@ -19,13 +19,13 @@ const UserData = () => {
 
   return (
     <div>
-      <h1>Using JSON Placeholder API using Fetch API</h1>
+      <h1>GET Request Using JSON Placeholder API using Fetch API</h1>
       <p>
         <span>ID: {fetchData.id}</span>
         <br />
         <span>Title: {fetchData.title}</span>
       </p>
-      <h1>Using JSON Placeholder API using Axios API</h1>
+      <h1>GET Request Using JSON Placeholder API using Axios API</h1>
       <p>
         <span>ID: {axiosData.id}</span>
         <br />
